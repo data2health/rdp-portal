@@ -1,18 +1,14 @@
-# rdp-portal
+# Reusable Data best practice portal (rdp-portal)
 
-CD2H project: Reusable Data best practice portal
-
-Before this example repo, team members had a hard time understanding the expectations for what the repo and associated milestones should look like. This repo provides a concrete (though abstracted) instantiation and provides an introductory GitHub tutorial for project management purposes. 
-
-This "project" will be evaluated on the basis of how easily it is understood by members of the CD2H team who need to make their own similar repositories. 
+CTSA hubs produce many valuable datasets which can be shared across broader research community. A significant gap exists between the data providers and the data discovery portals where researchers look for relevant datasets (including the generic Google Dataset search and many biomedical specific data portals). Data providers typically lack sufficient guides to expose their dataset metadata to these data portals. This web-based data-sharing best-practice will serve as the interactive widgets to guide through the important steps of data-sharing, which will make providers' datasets discoverable through multiple data portals.
 
 ## Problem statement
-Please include a Project Statement on your landing page. Your problem statement should be in the form of: What can CTSAs/the community not do now, that would be addressed by this project's success? A problem statement should be a clear vision and the overall method that will be used to solve the problem at hand. 
+
+This portal aims to help investigators share their data (or information about their data) using best practices for metadata, identifiers, licensing, and other attributes; the goal is to enable discovery and reuse.
 
 ## Project description
-(we will migrate these from the Project Matrix for you)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pretium a felis non scelerisque. Etiam molestie nisi ut mi viverra dictum. Nunc et tempor quam. Maecenas a viverra sapien. Aliquam lacinia sagittis lorem ac sodales. Fusce justo mi, cursus sed metus sed, ornare vestibulum mauris. Donec in orci ornare, facilisis nisl ut, congue libero.
+The biomedical and informatics communities have largely endorsed the spirit and basic components of the FAIR Data Principles. Biomedical data producers, including CTSA hubs, need actionable best-practice guidance on how to make their data discoverable and reusable, and bring the practical benefits of data sharing to researcher’s own research projects, as well as the research community as a whole. This project will target the specific steps during the data-sharing process, such as data-hosting, data-licensing and metadata-authoring.
 
 ## Contact person
 
@@ -20,33 +16,28 @@ We require a contact person for each project for administrative purposes. Each p
 
 Point person (github handle) | Site | Program Director
 ----------|--------------|---------------
-Julie McMurry (@jmcmurry) | OHSU | Melissa Haendel (@mellybelly)
+Chunlei Wu (@newgene) | Scripps | Melissa Haendel (@mellybelly)
 
 ## Leads 
 
-Project scientific leadership, should be 1-3 persons. 
-
 Lead(s) (github handle) | Site
 ----------|--------------|
-Julie McMurry (@jmcmurry) | OHSU 
+Chunlei Wu (@newgene) | Scripps
+Robin Champieux (@rchampieux) | OHSU
 
 
 ## Team members 
 
-No action required here, a list of team members will be imported and linked below.
-
-See https://github.com/data2health/project-repo-template/tree/master/team.md
+TBD
 
 ## Repositories
 
-List Github repositories associated with the project. Each project requires at least one repository to house the administrative tracking and public information. You can either add this information to an existing repository, or create a new one and list the associated repositories below. Please be sure to tag any repositories not under the data2health organization with the topic 'data2health'. Project repositories must be public. Some repositories may be private for sensitivity or operational reasons. 
-
-Example repos:
-- https://github.com/data2health/project-repo-template
-- https://github.com/data2health/operations; private repo editable by members of team @data2health/ops
+- https://github.com/data2health/schemas 
+- https://github.com/data2health/discovery-app 
 
 ## Deliverables
-Each project should propose one or more deliverables. Examples: a released code package, a best practices document, a final survey, a set of survey results, etc.
+
+A collaborative guidebook, an interactive web portal, and an metadata-authoring web portal
 
 ## Milestones 
 Each deliverable is represented as a Milestone, but not all Milestones need be deliverables. For example, see this 'report on XYZ' is a [Deliverable Milestone](https://github.com/data2health/project-repo-template/milestone/2)

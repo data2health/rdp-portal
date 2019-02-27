@@ -24,16 +24,56 @@ Lead(s) (github handle) | Site
 ----------|--------------|
 Chunlei Wu (@newgene) | Scripps
 Robin Champieux (@rchampieux) | OHSU
+Kristi Holmes (@kristiholmes)  | Northwestern
 
 
 ## Team members 
 
-TBD
+  * Scripps Research
+    * Chunlei Wu
+    * Jiwen (Kevin) Xin
+    * Sebastien Lelong
+    * Marco Cano
+    * Xinhua (Jerry) Zhou
+  
+  * Northwestern University
+    * Kristi Holmes
+    * Matt Carson
+    * Sara Gonzalas
+    * Guilaume Viger
+  
+  * OHSU
+    * Robin Champieux
+    * Melissa Haendel
+    
+  * University of Iowa
+    * Dave Eichmann
+   
+  * Sage Bionetworks
+    * James Eddy
+    * Milen Nikolov
+    * Kara Woo
+
+     
+
 
 ## Repositories
 
-- https://github.com/data2health/schemas 
-- https://github.com/data2health/discovery-app 
+  * Metadata schemas
+  
+    https://github.com/data2health/schemas
+    
+  * Best practice web portal
+  
+    https://github.com/biothings/discovery-app
+    
+  * Data repository survey
+  
+    https://github.com/data2health/repository-and-index-software
+    
+  * Metadata schema utility tools
+  
+    https://github.com/biothings/biothings_schema.py
 
 ## Deliverables
 
@@ -76,7 +116,7 @@ Documentation may be natively in GitHub using the wiki or .md files in the appro
 [The project Google drive folder](https://drive.google.com/drive/u/0/folders/1vLp-H32KTNobiZF2cK82At90S6dVJNUf) is accessible to onboarded participants. 
 
 ## Slack room
-[The project slack room](https://cd2h.slack.com/messages/C9D9SQWEQ) is accessible to onboarded participants. You will not automatically be added to Slack, please join via the link above.
+[The project slack room](https://cd2h.slack.com/messages/CEY05KLPM/) is accessible to onboarded participants. You will not automatically be added to Slack, please join via the link above.
 
 ## Need help with GitHub? See the Managing Tranlational Informatics Projects (MTIP) tutorial
 

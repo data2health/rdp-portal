@@ -1,6 +1,6 @@
 # Reusable Data best practice portal (rdp-portal)
 
-CTSA hubs produce many valuable datasets which can be shared across broader research community. A significant gap exists between the data providers and the data discovery portals where researchers look for relevant datasets (including the generic Google Dataset search and many biomedical specific data portals). Data providers typically lack sufficient guides to expose their dataset metadata to these data portals. This web-based data-sharing best-practice will serve as the interactive widgets to guide through the important steps of data-sharing, which will make providers' datasets discoverable through multiple data portals.
+CTSA hubs produce many valuable datasets which can be shared across the broader research community. A significant gap exists between the data providers and the data discovery portals where researchers look for relevant datasets (including the generic Google Dataset search and many biomedical specific data portals). Data providers typically lack sufficient guides to expose their dataset metadata to these data portals. This web-based data-sharing best-practice will serve as the interactive widgets to guide through the important steps of data-sharing, which will make providers' datasets discoverable through multiple data portals.
 
 ## Problem statement
 

@@ -39,7 +39,7 @@ Kristi Holmes (@kristiholmes)  | Northwestern
   * Northwestern University
     * Kristi Holmes
     * Matt Carson
-    * Sara Gonzalas
+    * Sara Gonzales
     * Guilaume Viger
   
   * OHSU

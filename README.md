@@ -31,6 +31,7 @@ Kristi Holmes (@kristiholmes)  | Northwestern
 
   * Scripps Research
     * Chunlei Wu
+    * Ali Torkamani
     * Jiwen (Kevin) Xin
     * Sebastien Lelong
     * Marco Cano
@@ -79,14 +80,13 @@ Kristi Holmes (@kristiholmes)  | Northwestern
 
 A collaborative guidebook, an interactive web portal, and an metadata-authoring web portal
 
-## Milestones 
-Each deliverable is represented as a Milestone, but not all Milestones need be deliverables. For example, see this 'report on XYZ' is a [Deliverable Milestone](https://github.com/data2health/project-repo-template/milestone/2)
+## Milestones
 
-Please create 4-8 Milestones for each project, with dates prior to August 31st.  Milestones for partially completed deliverables are acceptable: beta release of software, # interviews performed, 75% coverage, etc. 
+The milestones for this rdp-portal project is here:
 
-Each Milestone must have at least one Issue (aka 'ticket'), each issue should be assigned to a person, preferably one at a time; reassignments are fine. Issues with checklists showing degree of completion are also acceptable, see [example](https://github.com/data2health/project-repo-template/issues/2).
+https://github.com/data2health/rdp-portal/milestones
 
-GitHub help on Milestones is [here](https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests/)
+We are still in the process of finalizing them.
 
 ## Evaluation
 Each project should propose a set of evaluation measures, recorded in a separate Evaluation Plan file, for example [here](https://github.com/data2health/project-repo-template/blob/master/evaluation.md). These will be reviewed by the Evaluation committee and approved by the Program Directors and NCATS. The Evaluation committee will meet with each Project team leads to assist. 

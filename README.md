@@ -10,6 +10,9 @@ This portal aims to help investigators share their data (or information about th
 
 The biomedical and informatics communities have largely endorsed the spirit and basic components of the FAIR Data Principles. Biomedical data producers, including CTSA hubs, need actionable best-practice guidance on how to make their data discoverable and reusable, and bring the practical benefits of data sharing to researcher’s own research projects, as well as the research community as a whole. This project will target the specific steps during the data-sharing process, such as data-hosting, data-licensing and metadata-authoring.
 
+## Alignment to program objectives
+TODO see [here](https://github.com/data2health/roadmap/blob/master/cd2h-foa.md)
+
 ## Contact person
 
 We require a contact person for each project for administrative purposes. Each project should also have a CD2H Program director assigned.
@@ -29,34 +32,7 @@ Kristi Holmes (@kristiholmes)  | Northwestern
 
 ## Team members 
 
-  * Scripps Research
-    * Chunlei Wu
-    * Ali Torkamani
-    * Jiwen (Kevin) Xin
-    * Sebastien Lelong
-    * Marco Cano
-    * Xinhua (Jerry) Zhou
-  
-  * Northwestern University
-    * Kristi Holmes
-    * Matt Carson
-    * Sara Gonzales
-    * Guilaume Viger
-  
-  * OHSU
-    * Robin Champieux
-    * Melissa Haendel
-    
-  * University of Iowa
-    * Dave Eichmann
-   
-  * Sage Bionetworks
-    * James Eddy
-    * Milen Nikolov
-    * Kara Woo
-
-     
-
+see [team page](https://github.com/data2health/rdp-portal/edit/master/team.md)
 
 ## Repositories
 

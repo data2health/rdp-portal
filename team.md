@@ -4,7 +4,6 @@
 Name | GitHub Handle | Site
 -- | -- | --
 Robin Champieux | [rchampieux](https://github.com/rchampieux) | OHSU
-Ammar Chaudhry | [informatics](https://github.com/achaudhry615/informatics) | COH
 Melissa Haendel | [mellybelly](http://github.com/mellybelly) | OHSU
 Chunlei Wu | [newgene](https://github.com/newgene) | Scripps
 
@@ -14,6 +13,7 @@ Name | GitHub Handle | Site
 Nick Anderson | [flipcorp](http://github.com/flipcorp) | UCDavisHealth
 Marco Cano | [marcodarko](https://github.com/marcodarko) | Scripps
 Matt Carson | [carsonicator](https://github.com/carsonicator) | Northwestern
+Ammar Chaudhry | [informatics](https://github.com/achaudhry615/informatics) | COH
 Christopher Chute | [cgchute](https://github.com/cgchute) | JHU
 Ken Gersing | [KenGersing](https://github.com/KenGersing) | NCATS
 Sara Gonzales | [saragon02](https://github.com/saragon02) | Northwestern

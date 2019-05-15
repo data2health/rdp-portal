@@ -31,7 +31,7 @@ This project will build a collection of tools to bridge the schema.org technolog
 - **Metadata widgets** to help data providers to build and submit dataset metadata
     - Dataset hosting selector with example hosting options.
     - Dataset licence selector with CreativeCommons license supported.
-    - Dataset metadata authoring tool supports mutlipe data portals.
+    - Dataset metadata authoring tool supports multiple data portals.
 
 - **Schema Hub** to help developers to build metadata schemas on top of existing ones
     - Implementing a schema.org based schema indexer.

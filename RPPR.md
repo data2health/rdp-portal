@@ -5,7 +5,7 @@ Don't edit this - the RPPR generator populates this section
 
 CTSA hubs produce many valuable datasets which can be shared across the broader research community. A significant gap exists between the data providers and the data discovery portals where researchers look for relevant datasets (including the generic Google Dataset search and many biomedical specific data portals). Data providers typically lack sufficient guides to expose their dataset metadata to these data portals.
 
-On the other hand, the data-portal developers who need to define their own metadata schemas often lack of effective ways to nagivate the existing metadata schemas and extend them to fit their own need. This is sigificant to the end users as well, because the initial schema design decisions impact the interoperability of the entire datasets available from a data-portal.
+On the other hand, the data-portal developers who need to define their own metadata schemas often lack of effective ways to navigate the existing metadata schemas and extend them to fit their own need. This is significant to the end users as well, because the initial schema design decisions impact the interoperability of the entire datasets available from a data-portal.
 
 In this project, we are building interactive widgets and development tools to support both data-providers and developers, promoting data-sharing best-practices among the CTSA community.
 

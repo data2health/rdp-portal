@@ -41,6 +41,10 @@ This project will build a collection of tools to bridge the schema.org technolog
 - **Data-portal Integration**
     - Harvest distributed dataset metadata and trigger the metadata-indexing at specific data-portals like [MenRva](https://github.com/data2health/menRva).
 
+# Deliverables
+
+A collaborative guidebook, an interactive web portal, and an metadata-authoring web portal
+
 # Timeline (monthly)
 - 7/1/19 Identify and define initial set of metadata schemas to be supported
 - 8/1/19 **Metadata widgets** Initial metadata-authoring form and metadata-hosting ready

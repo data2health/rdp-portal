@@ -32,6 +32,7 @@ Jerry Zhou | [namespacestd0](http://github.com/namespacestd0) | Scripps
 ## Mailing list only
 Name | GitHub Handle | Site
 -- | -- | --
+Chris Amos | [github.com](http://github.com) | Baylor
 Michael Bales | [michaelbales1](http://github.com/michaelbales1) | Cornell
 Tom Campion | [github.com](http://github.com) | Cornell
 Jack Chang | [ab2cw](https://github.com/ab2cw) | URMC
@@ -55,6 +56,7 @@ Harold Lehmann | [hlehmann17](https://github.com/hlehmann17) | JHU
 Yupu Liang | [github.com](http://github.com) | Rockefeller
 Laura Paglione | [lpaglione](https://github.com/lpaglione) | Spherical
 Nitin Parikh | [github.com](http://github.com) | UCDavisHealth
+Steve Patterson | [github.com.](http://github.com.) | #N/A
 Philip Payne | [prpayne5](http://github.com/prpayne5) | WashU
 Rose Relevo | [RoseRelevo](https://github.com/RoseRelevo) | OHSU
 Svetlana Rojevsky | [github.com](http://github.com) | Tufts

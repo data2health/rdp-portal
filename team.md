@@ -54,7 +54,7 @@ Boyd Knosp | [boydknosp](http://github.com/boydknosp) | Iowa
 Brenda Kostelecky | [bdkostelecky](http://github.com/bdkostelecky) | Hutch
 Harold Lehmann | [hlehmann17](https://github.com/hlehmann17) | JHU
 Yupu Liang | [github.com](http://github.com) | Rockefeller
-Diego Mazzotti | [mazzottidr](https://github.com/mazzottidr) | #N/A
+Diego Mazzotti | [mazzottidr](https://github.com/mazzottidr) | UPenn
 Laura Paglione | [lpaglione](https://github.com/lpaglione) | Spherical
 Nitin Parikh | [github.com](http://github.com) | UCDavisHealth
 Steve Patterson | [github.com.](http://github.com.) | iTHRIV

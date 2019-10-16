@@ -40,7 +40,7 @@ see [team page](https://github.com/data2health/rdp-portal/edit/master/team.md)
   
     https://github.com/data2health/schemas
     
-  * Best practice web portal
+  * Data Discovery Engine and web portal
   
     https://github.com/biothings/discovery-app
     

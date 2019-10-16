@@ -51,6 +51,10 @@ see [team page](https://github.com/data2health/rdp-portal/edit/master/team.md)
   * Metadata schema utility tools
   
     https://github.com/biothings/biothings_schema.py
+    
+  * Research Data Licensing best practices
+  
+    https://reusabledata.org
 
 ## Deliverables
 

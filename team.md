@@ -67,8 +67,10 @@ Diane Keogh | [gibhub.com](http://gibhub.com) | Harvard
 Boyd Knosp | [boydknosp](http://github.com/boydknosp) | Iowa
 Brenda Kostelecky | [bdkostelecky](http://github.com/bdkostelecky) | Hutch
 Patricia Kovatch | [](http://github.com/) | MountSinai
+Rebecca Laird | [github.com](http://github.com) | CLIC
 Harold Lehmann | [hlehmann17](https://github.com/hlehmann17) | JHU
 Yupu Liang | [github.com](http://github.com) | Rockefeller
+Prasanth Manukonda | [github.com](http://github.com) | Rockefeller
 Kate Marusina | [github.com](http://github.com) | UCDavisHealth
 Diego Mazzotti | [mazzottidr](https://github.com/mazzottidr) | UPenn
 Jim McClay | [Standards](https://github.com/UNMCClinicalInfromatics/Standards) | GPCTR

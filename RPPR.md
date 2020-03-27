@@ -68,3 +68,8 @@ A collaborative guidebook, an interactive web portal, and an metadata-authoring 
 
     As we target to build user-friendly web widgets and development tools to simplify the data-sharing process, the initial covered use-cases can be limited. At the first six-month period of year-3, we will focus on demonstrating the utility of the application by using selected use-cases. They will also serve as the incentives to attract more use-cases at the later stage of the project. Using our biweekly "Metadata" community meeting as the channel, we will reach out to our potential users and increase the breadth of the covered use-cases.
 
+# Y3 (July 1, 2019-June 30, 2020) Accomplishments 
+The following content is from the June 30 - Dec 30, 2019 mid year progress report [here](https://docs.google.com/document/d/1LLe3uCfEUakWxIJyi5SA4ZocYDmINvhySTperaui1Bw/edit).  Please add progress for Jan 1 - June 30th, 2020. 
+
+* A collaborative guidebook, an interactive web portal, and an metadata-authoring web portal:
+        * Data Discovery Engine application is hosted at https://discovery.biothings.io/
